@@ -1,3 +1,4 @@
 fun main(){
-    println("Ahmed")
+    val game = Game()
+    game.start()
 }
